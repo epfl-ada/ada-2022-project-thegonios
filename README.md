@@ -15,19 +15,19 @@ To identify historical events, we would create lexical fields related to the eve
 
 ## Timeline (smooth evolution of the work acroos weeks)
 18.11.22 : Milestone P2, initial analysis and data handling pipeline. <br>
--> 25.11.22 : elaboration of dictionaries. 
--> 02.12.22 : Hw2. 
--> 09.12.22 : final plots, datastory plan on paper. 
--> 18.12.22 : datastory elaboration using plots, start design of the website and verify the notebook. 
--> 23.12.22 : Milestone P3, full datastory and notebook submitting. 
+-> 25.11.22 : elaboration of dictionaries. <br>
+-> 02.12.22 : Hw2. <br>
+-> 09.12.22 : final plots, datastory plan on paper. <br>
+-> 18.12.22 : datastory elaboration using plots, start design of the website and verify the notebook. <br>
+-> 23.12.22 : Milestone P3, full datastory and notebook submitting. <br>
 
 ## Milestones (what we should end up with at precise dates)
-18.11.22 : Milestone P2, initial analysis and data handling pipeline
-25.11.22 : finite list of dictionaries for the events to analyze
-02.12.22 : 
-09.12.22 : all plots done, datastory is planned on paper
-18.12.22 : website for the datastory is created (not fully designed), notebook is cleaned and optimized
-23.12.22 : Milestone P3, full datastory and notebook submitting
+18.11.22 : Milestone P2, initial analysis and data handling pipeline. <br>
+25.11.22 : finite list of dictionaries for the events to analyze. <br>
+02.12.22 :  <br>
+09.12.22 : all plots done, datastory is planned on paper. <br>
+18.12.22 : website for the datastory is created (not fully designed), notebook is cleaned and optimized. <br>
+23.12.22 : Milestone P3, full datastory and notebook submitting. <br>
 
 
 ## Questions for TA's
