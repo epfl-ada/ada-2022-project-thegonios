@@ -14,12 +14,12 @@ At first, when asked on 'what are movies made for?', one could easily answer 'fo
 To identify historical events, we would create lexical fields related to the events using our personal knowledge, and the use of already existing lists of words on the web. Then we would parse each movie plot through these dictionnaries and count the number of words they have in common and how many times they occur. To avoid false positive we would set a threshold to accept a movie as portraying a particular event. Then we would get a cluster of movies assigned to each event we chose to study. These clusters would then first be analyzed individually to then compare them and observe if their are differences in covering of history in the movie industry.
 
 ## Timeline (smooth evolution of the work acroos weeks)
-18.11.22 : Milestone P2, initial analysis and data handling pipeline
--> 25.11.22 : elaboration of dictionaries
--> 02.12.22 : Hw2
--> 09.12.22 : final plots, datastory plan on paper
--> 18.12.22 : datastory elaboration using plots, start design of the website and verify the notebook
--> 23.12.22 : Milestone P3, full datastory and notebook submitting
+18.11.22 : Milestone P2, initial analysis and data handling pipeline  
+-> 25.11.22 : elaboration of dictionaries. 
+-> 02.12.22 : Hw2. 
+-> 09.12.22 : final plots, datastory plan on paper. 
+-> 18.12.22 : datastory elaboration using plots, start design of the website and verify the notebook. 
+-> 23.12.22 : Milestone P3, full datastory and notebook submitting. 
 
 ## Milestones (what we should end up with at precise dates)
 18.11.22 : Milestone P2, initial analysis and data handling pipeline
