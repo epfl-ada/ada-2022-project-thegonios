@@ -6,15 +6,29 @@ At first, when asked on 'what are movies made for?', one could easily answer 'fo
 ## Research questions
 1. Does the way of portraying a particular event changed over time ?
 2. What is the relationship between movie gender and the event it portrayed ? 
+3. Are there preferred actor ethnicity, age and gender distributions to cover an event?
 
 ## Additional datasets ?
 
 ## Methods
 To identify historical events, we would create lexical fields related to the events using our personal knowledge, and the use of already existing lists of words on the web. Then we would parse each movie plot through these dictionnaries and count the number of words they have in common and how many times they occur. To avoid false positive we would set a threshold to accept a movie as portraying a particular event. Then we would get a cluster of movies assigned to each event we chose to study. These clusters would then first be analyzed individually to then compare them and observe if their are differences in covering of history in the movie industry.
 
-## Timeline
+## Timeline (smooth evolution of the work acroos weeks)
+18.11.22 : Milestone P2, initial analysis and data handling pipeline
+-> 25.11.22 : elaboration of dictionaries
+-> 02.12.22 : Hw2
+-> 09.12.22 : final plots, datastory plan on paper
+-> 18.12.22 : datastory elaboration using plots, start design of the website and verify the notebook
+-> 23.12.22 : Milestone P3, full datastory and notebook submitting
 
-## Milestones
+## Milestones (what we should end up with at precise dates)
+18.11.22 : Milestone P2, initial analysis and data handling pipeline
+25.11.22 : finite list of dictionaries for the events to analyze
+02.12.22 : 
+09.12.22 : all plots done, datastory is planned on paper
+18.12.22 : website for the datastory is created (not fully designed), notebook is cleaned and optimized
+23.12.22 : Milestone P3, full datastory and notebook submitting
+
 
 ## Questions for TA's
 
