@@ -15,7 +15,7 @@ At first, when asking 'what are movies made for?', the first answer that comes t
 7. Are there relations and similarities between different historical events ?
 
 ## Additional datasets ?
-- Wikidata - we extracted actor ethnicities corresponding to the freebase IDs found in character.metadata.tsv.
+Wikidata - we extracted actor ethnicities corresponding to the freebase IDs found in character.metadata.tsv.
 
 ## Methods
 To identify historical events, we created lexical fields related to the events using our personal knowledge and already existing lists of words on the web. Each movie plot is then parsed through these dictionnaries, the number of words they have in common are counted as well as their occurance. To avoid false positives we have setted a threshold of number of common words which accepts a movie as portraying a particular event or not. We also have to find a way to remove the dependency of our method to the length of the dictionnary or the length of the plot summary. Moreover, if comparisons are performed between these engineered features, a sort of harmonization (standardization) needs to be made before any analysis. All these issues need to be addressed in order to limit the bias introduced into our hand-crafted features. 
@@ -51,9 +51,9 @@ The last research focus would be to identify similiraties between historical per
 
 ## Questions for TA's
 
-Suggestion on how to improve our method based on plot summaries to assign a movie to a historical period ?
-What is the most relevant way to define our number of word threshold ?
-Would you suggest focusing our analysis on one specific historical period ?
+Suggestion on how to improve our method based on plot summaries to assign a movie to a historical period ? <br>
+What is the most relevant way to define our number of word threshold ? <br>
+Would you suggest focusing our analysis on one specific historical period ? <br>
 
 
 ![](https://www.epfl.ch/wp/5.5/wp-content/themes/wp-theme-2018/assets/svg/epfl-logo.svg)
