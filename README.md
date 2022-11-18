@@ -1,5 +1,7 @@
 # Movies: today's time machine
 
+#### Clara Scherrer, Noémie Chillier, Nathan Decurnex, Thibaut Hennel
+
 ## Abstract
 At first, when asking 'what are movies made for?', the first answer that comes to mind is 'for entertainment!'. But movies are packed in diverse sources of information and are therefore rich objects of analysis. Often, only news articles or scientific publications are considered as reliable news sources and cinema seems to belong to fiction, they do not convey reality but its representation. In this project, we would like to focus on movies that portray History. Some try to represent historical events conscientiously and others just use them as a setting for their story plots. However, by bringing the biggest events of the past century to the screen, these movies fuel the heritage of the world's memory, so we never forget the events that shaped our existence. We therefore have an interest in the when and how movies have portrayed historical events. We will dive into the plot summaries to identify historical events and perform multi-step analysis to investigate the way these were handled over time by considering the genre of the movies, the plots and the actors that played in them. 
 
@@ -29,22 +31,29 @@ To go more into the depths of historical movies, engineered variables could be b
 The last research focus would be to identify similiraties between historical periods. Tools like clustering methods could help us group historical events between them.
 
 ## Timeline (smooth evolution of the work acroos weeks)
-18.11.22 : Milestone P2, initial analysis and data handling pipeline. <br>
--> 25.11.22 : Creation and testing of dictionaries. <br>
--> 02.12.22 : Homework 2. <br>
--> 09.12.22 : Final plots, datastory planned on paper. <br>
--> 18.12.22 : Datastory elaboration using plots, start design of the website and verify the notebook. <br>
--> 23.12.22 : Milestone P3, full datastory and notebook submitting. <br>
+- 18.11.22 : Milestone P2, initial analysis and data handling/exploration pipeline. <br>
+- 25.11.22 : Creation and testing of dictionaries of historical events of interest. <br>
+- 02.12.22 : Homework 2. <br>
+- 09.12.22 : Final plots, datastory planned on paper. <br>
+- 18.12.22 : Datastory elaboration using plots, start design of the website and verify the notebook. <br>
+- 23.12.22 : Milestone P3, full datastory and notebook submitting. <br>
 
 ## Milestones (what we should end up with at precise dates)
-18.11.22 : Milestone P2, initial analysis and data handling pipeline. <br>
-25.11.22 : finite list of dictionaries for the events to analyze. <br>
-02.12.22 :  <br>
-09.12.22 : all plots done, datastory is planned on paper. <br>
-18.12.22 : website for the datastory is created (not fully designed), notebook is cleaned and optimized. <br>
-23.12.22 : Milestone P3, full datastory and notebook submitting. <br>
-
+1. Milestone P2, initial analysis and data handling pipeline. <br>
+2. Define the historical periods/events of interest
+3. Create the corresponding dictionnaries and test their specificity
+4. Assess the quality of the dictionnaries
+4. Create main datastory graphs
+5. Try out sentiment analysis to identify and characterise historical events
+6. Cross analysis between historical events
+7. Create website for the datastory
+8. Milestone P3, full datastory and notebook submitting
 
 ## Questions for TA's
+
+Suggestion on how to improve our method based on plot summaries to assign a movie to a historical period ?
+What is the most relevant way to define our number of word threshold ?
+Would you suggest focusing our analysis on one specific historical period ?
+
 
 ![](https://www.epfl.ch/wp/5.5/wp-content/themes/wp-theme-2018/assets/svg/epfl-logo.svg)
