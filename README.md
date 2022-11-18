@@ -1,24 +1,39 @@
-# The history behind the movie plot
+# Movies: today's time machine
 
 ## Abstract
-At first, when asked on 'what are movies made for?', one could easily answer 'for entertainment!'. But this is obviously not the only reason. Here we would like to focus on movies that are portraying History. Some stick to it conscientiously, other just use it as an environemnt for their original plot. However, by bringging the biggest events of the past century to the screen, these movies are made for the memory and so we can remember what the past was made of. In this project we are interested in the when and how do movies have portrayed historical events. We will dive into the plot summaries to identify events and perform multi-step analysis to investigate the way these were handled over time by considering the gender of the movies and the actors that played in them. 
+At first, when asking 'what are movies made for?', the first answer that comes to mind is 'for entertainment!'. But movies are packed in diverse sources of information and are therefore rich objects of analysis. Often, only news articles or scientific publications are considered as reliable news sources and cinema seems to belong to fiction, they do not convey reality but its representation. In this project, we would like to focus on movies that portray History. Some try to represent historical events conscientiously and others just use them as a setting for their story plots. However, by bringing the biggest events of the past century to the screen, these movies fuel the heritage of the world's memory, so we never forget the events that shaped our existence. We therefore have an interest in the when and how movies have portrayed historical events. We will dive into the plot summaries to identify historical events and perform multi-step analysis to investigate the way these were handled over time by considering the genre of the movies, the plots and the actors that played in them. 
 
 ## Research questions
-1. Does the way of portraying a particular event changed over time ?
-2. What is the relationship between movie gender and the event it portrayed ? 
-3. Are there preferred actor ethnicity, age and gender distributions to cover an event?
+1. Can we relate a given movie to specific historical periods ?
+2. To what extent can we extract historical information and evidence in movies ?
+3. What is the relationship between movie genre and the event it portrayed ? 
+4. Are there preferred actor ethnicitiy, age or gender distributions to cover an event?
+5. Does the way of portraying a particular event change over time ?
+6. Could movie plot sentiment analysis bring to light certain historical events ?
+7. Are there relations and similarities between different historical events ?
 
 ## Additional datasets ?
+- Wikidata - we extracted actor ethnicities corresponding to the freebase IDs found in character.metadata.tsv.
 
 ## Methods
-To identify historical events, we would create lexical fields related to the events using our personal knowledge, and the use of already existing lists of words on the web. Then we would parse each movie plot through these dictionnaries and count the number of words they have in common and how many times they occur. To avoid false positive we would set a threshold to accept a movie as portraying a particular event. Then we would get a cluster of movies assigned to each event we chose to study. These clusters would then first be analyzed individually to then compare them and observe if their are differences in covering of history in the movie industry.
+To identify historical events, we created lexical fields related to the events using our personal knowledge and already existing lists of words on the web. Each movie plot is then parsed through these dictionnaries, the number of words they have in common are counted as well as their occurance. To avoid false positives we have setted a threshold of number of common words which accepts a movie as portraying a particular event or not. We also have to find a way to remove the dependency of our method to the length of the dictionnary or the length of the plot summary. Moreover, if comparisons are performed between these engineered features, a sort of harmonization (standardization) needs to be made before any analysis. All these issues need to be addressed in order to limit the bias introduced into our hand-crafted features. 
+
+We also would like to have a way to confirm that our method is performing a good extraction of historical events. Our preliminary analysis were based on word frequencies in movie plot summaries assigned to a historical period. These words should be linked to our historical event without even specifying them in our dictionnaries.
+
+
+
+Once these specific features are built, we can perform simple anaylsis with other variables already present in the data set such as movie genre, box office revenue, gender proportions or ethinicities of actors playing in movies. This additional information would characterize how the historical event is portrayed through our screens. 
+
+To go more into the depths of historical movies, engineered variables could be built to explore which sentiments or values are expressed in films. History encapsulates themes which expose the human condition, our feelings, weaknesses, triumphs, and tragedies. Therefore, the sentiment analysis of movie plots could expose major historical events, which is what we could explore in the future. 
+
+The last research focus would be to identify similiraties between historical periods. Tools like clustering methods could help us group historical events between them.
 
 ## Timeline (smooth evolution of the work acroos weeks)
 18.11.22 : Milestone P2, initial analysis and data handling pipeline. <br>
--> 25.11.22 : elaboration of dictionaries. <br>
--> 02.12.22 : Hw2. <br>
--> 09.12.22 : final plots, datastory plan on paper. <br>
--> 18.12.22 : datastory elaboration using plots, start design of the website and verify the notebook. <br>
+-> 25.11.22 : Creation and testing of dictionaries. <br>
+-> 02.12.22 : Homework 2. <br>
+-> 09.12.22 : Final plots, datastory planned on paper. <br>
+-> 18.12.22 : Datastory elaboration using plots, start design of the website and verify the notebook. <br>
 -> 23.12.22 : Milestone P3, full datastory and notebook submitting. <br>
 
 ## Milestones (what we should end up with at precise dates)
