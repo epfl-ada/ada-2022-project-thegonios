@@ -20,7 +20,7 @@ To identify historical events, we created lexical fields related to the events u
 
 We also would like to have a way to confirm that our method is performing a good extraction of historical events. Our preliminary analysis were based on word frequencies in movie plot summaries assigned to a historical period. These words should be linked to our historical event without even specifying them in our dictionnaries.
 
-
+![Screenshot](wordcloud.jpg)
 
 Once these specific features are built, we can perform simple anaylsis with other variables already present in the data set such as movie genre, box office revenue, gender proportions or ethinicities of actors playing in movies. This additional information would characterize how the historical event is portrayed through our screens. 
 
