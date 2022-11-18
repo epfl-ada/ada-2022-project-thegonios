@@ -14,7 +14,7 @@ At first, when asking 'what are movies made for?', the first answer that comes t
 6. Could movie plot sentiment analysis bring to light certain historical events ?
 7. Are there relations and similarities between different historical events ?
 
-## Additional datasets ?
+## Additional datasets
 Wikidata - we extracted actor ethnicities corresponding to the freebase IDs found in character.metadata.tsv.
 
 ## Methods
@@ -28,9 +28,9 @@ Once these specific features are built, we can perform simple anaylsis with othe
 
 To go more into the depths of historical movies, engineered variables could be built to explore which sentiments or values are expressed in films. History encapsulates themes which expose the human condition, our feelings, weaknesses, triumphs, and tragedies. Therefore, the sentiment analysis of movie plots could expose major historical events, which is what we could explore in the future. 
 
-The last research focus would be to identify similiraties between historical periods. Tools like clustering methods could help us group historical events between them.
+The last research focus would be to identify similarities between historical periods. Tools like clustering methods could help us group historical events between them.
 
-## Timeline (smooth evolution of the work acroos weeks)
+## Timeline
 - 18.11.22 : Milestone P2, initial analysis and data handling/exploration pipeline. <br>
 - 25.11.22 : Creation and testing of dictionaries of historical events of interest. <br>
 - 02.12.22 : Homework 2. <br>
@@ -38,7 +38,7 @@ The last research focus would be to identify similiraties between historical per
 - 18.12.22 : Datastory elaboration using plots, start design of the website and verify the notebook. <br>
 - 23.12.22 : Milestone P3, full datastory and notebook submitting. <br>
 
-## Milestones (what we should end up with at precise dates)
+## Milestones
 1. Milestone P2, initial analysis and data handling pipeline. <br>
 2. Define the historical periods/events of interest
 3. Create the corresponding dictionnaries and test their specificity
