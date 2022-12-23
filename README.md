@@ -3,7 +3,7 @@
 #### Clara Scherrer, Noémie Chillier, Nathan Decurnex, Thibaut Hennel
 
 ## Data Story
-Check it out [here](https://nltibo.github.io/agency-jekyll-theme/#portfolioModal2) ! 
+Check it out [here](https://nltibo.github.io/agency-jekyll-theme/) ! 
 
 ## Abstract
 At first, when asking 'what are movies made for?', the first answer that comes to mind is 'for entertainment!'. But movies are packed in diverse sources of information and are therefore rich objects of analysis. Often, only news articles or scientific publications are considered as reliable news sources and cinema seems to belong to fiction, they do not convey reality but its representation. In this project, we would like to focus on movies that portray History. Some try to represent historical events conscientiously and others just use them as a setting for their story plots. However, by bringing the biggest events of the past century to the screen, these movies fuel the heritage of the world's memory, so we never forget the events that shaped our existence. We therefore have an interest in the when and how movies have portrayed historical events. We will dive into the plot summaries to identify historical events and perform multi-step analysis to investigate the way these were handled over time by considering the genre of the movies, the plots. 
