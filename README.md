@@ -60,10 +60,10 @@ To summarize:
 8. Milestone P3, full datastory and notebook submitting
 
 ## The Gonios team member contributions
-Clara: first analysis, world cloud plots, NLP research, LDA, Word2Vec, README
-Noémie: first analysis, dictionary definitions, threshold, event characterizations
-Thibaut: pre-processing, threshold, code optimization, web developer 
-Nathan:  performance analysis, sentiment analysis, cosine matrix, PCA
+Clara: first analysis, world cloud plots, NLP research, LDA, Word2Vec, README <br>
+Noémie: first analysis, dictionary definitions, threshold, event characterizations <br>
+Thibaut: pre-processing, threshold, code optimization, web developer <br>
+Nathan:  performance analysis, sentiment analysis, cosine matrix, PCA <br>
 
 
 ![](https://www.epfl.ch/wp/5.5/wp-content/themes/wp-theme-2018/assets/svg/epfl-logo.svg)
